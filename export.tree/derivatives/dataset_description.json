@@ -1,0 +1,16 @@
+{
+  "Name": "DTIFuncOutput",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "derivative",
+  "Authors": [
+    "Anderson, Elizabeth J.",
+    "Staples, Ryan",
+    "Dyslin, Sara M.",
+    "Chang, Elizabeth H. T.",
+    "Laks, Alycia B.",
+    "Dickens, J. Vivian",
+    "Mathur, Devna",
+    "Paul, Sachi",
+    "Dvorak, Elizabeth"
+  ]
+}
